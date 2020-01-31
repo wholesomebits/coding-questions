@@ -7,7 +7,7 @@
 - 276\. Paint Fence
 - 303\. Range Sum Query - Immutable
 - [392\. Is Subsequence](392.%20Is%20Subsequence.md)
-- 746\. Min Cost Climbing Stairs
+- [746\. Min Cost Climbing Stairs](746.%20Min%20Cost%20Climbing%20Stairs.md)
 - 1025\. Divisor Game
 
 ## Medium
