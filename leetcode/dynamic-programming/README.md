@@ -6,7 +6,7 @@
 - 256\. Paint House
 - 276\. Paint Fence
 - 303\. Range Sum Query - Immutable
-- 392\. Is Subsequence
+- [392\. Is Subsequence](392.%20Is%20Subsequence.md)
 - 746\. Min Cost Climbing Stairs
 - 1025\. Divisor Game
 
