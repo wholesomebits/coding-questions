@@ -1,4 +1,4 @@
-# Problems with "Dynamic Programming" tag from LeetCode
+# LeetCode Dynamic Programming problems
 https://leetcode.com/tag/dynamic-programming/
 
 ## Easy
@@ -15,7 +15,7 @@ https://leetcode.com/tag/dynamic-programming/
 
 ## Medium
 - 5\. Longest Palindromic Substring
-- 62\. Unique Paths
+- [62\. Unique Paths](62.%20Unique%20Paths.md)
 - 63\. Unique Paths II
 - 64\. Minimum Path Sum
 - 91\. Decode Ways
