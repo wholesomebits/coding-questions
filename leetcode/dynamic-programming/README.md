@@ -110,7 +110,7 @@ https://leetcode.com/tag/dynamic-programming/
 - 10\. Regular Expression Matching
 - 32\. Longest Valid Parentheses
 - 44\. Wildcard Matching
-- 72\. Edit Distance
+- [72\. Edit Distance](72.%20Edit%20Distance.md)
 - 85\. Maximal Rectangle
 - 87\. Scramble String
 - 97\. Interleaving String
