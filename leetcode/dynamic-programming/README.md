@@ -42,7 +42,7 @@ https://leetcode.com/tag/dynamic-programming/
 - 376\. Wiggle Subsequence
 - 377\. Combination Sum IV
 - 413\. Arithmetic Slices
-- 416\. Partition Equal Subset Sum
+- [416\. Partition Equal Subset Sum](416.%20Partition%20Equal%20Subset%20Sum.md)
 - 418\. Sentence Screen Fitting
 - 464\. Can I Win
 - 467\. Unique Substrings in Wraparound String
