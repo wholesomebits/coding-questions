@@ -28,7 +28,7 @@ https://leetcode.com/tag/dynamic-programming/
 - 221\. Maximal Square
 - 264\. Ugly Number II
 - 279\. Perfect Squares
-- 300\. Longest Increasing Subsequence
+- [300\. Longest Increasing Subsequence](300.%20Longest%20Increasing%20Subsequence.md)
 - 304\. Range Sum Query 2D - Immutable
 - 309\. Best Time to Buy and Sell Stock with Cooldown
 - 322\. Coin Change
