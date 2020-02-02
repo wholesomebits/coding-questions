@@ -22,7 +22,7 @@ https://leetcode.com/tag/dynamic-programming/
 - 95\. Unique Binary Search Trees II
 - 96\. Unique Binary Search Trees
 - [120\. Triangle](120.%20Triangle.md)
-- 139\. Word Break
+- [139\. Word Break](139.%20Word%20Break.md)
 - 152\. Maximum Product Subarray
 - 213\. House Robber II
 - 221\. Maximal Square
