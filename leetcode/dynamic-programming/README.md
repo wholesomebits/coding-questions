@@ -31,7 +31,7 @@ https://leetcode.com/tag/dynamic-programming/
 - [300\. Longest Increasing Subsequence](300.%20Longest%20Increasing%20Subsequence.md)
 - 304\. Range Sum Query 2D - Immutable
 - 309\. Best Time to Buy and Sell Stock with Cooldown
-- 322\. Coin Change
+- [322\. Coin Change](322.%20Coin%20Change.md)
 - 338\. Counting Bits
 - 343\. Integer Break
 - 351\. Android Unlock Patterns
