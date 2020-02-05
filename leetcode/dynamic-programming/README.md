@@ -35,7 +35,7 @@ https://leetcode.com/tag/dynamic-programming/
 - 338\. Counting Bits
 - 343\. Integer Break
 - 351\. Android Unlock Patterns
-- 357\. Count Numbers with Unique Digits
+- [357\. Count Numbers with Unique Digits](357.%20Count%20Numbers%20with%20Unique%20Digits.md)
 - 361\. Bomb Enemy
 - 368\. Largest Divisible Subset
 - 375\. Guess Number Higher or Lower II
