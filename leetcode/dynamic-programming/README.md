@@ -19,7 +19,7 @@ https://leetcode.com/tag/dynamic-programming/
 - [63\. Unique Paths II](63.%20Unique%20Paths%20II.md)
 - [64\. Minimum Path Sum](64.%20Minimum%20Path%20Sum.md)
 - [91\. Decode Ways](91.%20Decode%20Ways.md)
-- 95\. Unique Binary Search Trees II
+- [95\. Unique Binary Search Trees II](95.%20Unique%20Binary%20Search%20Trees%20II.md)
 - [96\. Unique Binary Search Trees](96.%20Unique%20Binary%20Search%20Trees.md)
 - [120\. Triangle](120.%20Triangle.md)
 - [139\. Word Break](139.%20Word%20Break.md)
