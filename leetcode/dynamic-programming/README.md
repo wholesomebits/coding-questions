@@ -107,9 +107,9 @@ https://leetcode.com/tag/dynamic-programming/
 - 1314\. Matrix Block Sum
 
 ## Hard
-- 10\. Regular Expression Matching
+- [10\. Regular Expression Matching](10.%20Regular%20Expression%20Matching.md)
 - 32\. Longest Valid Parentheses
-- 44\. Wildcard Matching
+- [44\. Wildcard Matching](44.%20Wildcard%20Matching.md)
 - [72\. Edit Distance](72.%20Edit%20Distance.md)
 - 85\. Maximal Rectangle
 - 87\. Scramble String
