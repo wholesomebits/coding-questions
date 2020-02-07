@@ -48,7 +48,7 @@ https://leetcode.com/tag/dynamic-programming/
 - 467\. Unique Substrings in Wraparound String
 - 474\. Ones and Zeroes
 - 486\. Predict the Winner
-- 494\. Target Sum
+- [494\. Target Sum](494.%20Target%20Sum.md)
 - 516\. Longest Palindromic Subsequence
 - 523\. Continuous Subarray Sum
 - 576\. Out of Boundary Paths
