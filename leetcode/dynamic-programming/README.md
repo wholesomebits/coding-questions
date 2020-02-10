@@ -121,7 +121,7 @@ https://leetcode.com/tag/dynamic-programming/
 - 174\. Dungeon Game
 - 188\. Best Time to Buy and Sell Stock IV
 - 265\. Paint House II
-- 312\. Burst Balloons
+- [312\. Burst Balloons](312.%20Burst%20Balloons.md)
 - 321\. Create Maximum Number
 - 354\. Russian Doll Envelopes
 - 363\. Max Sum of Rectangle No Larger Than K
