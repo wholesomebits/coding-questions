@@ -93,7 +93,7 @@ https://leetcode.com/tag/dynamic-programming/
 - 1130\. Minimum Cost Tree From Leaf Values
 - 1139\. Largest 1-Bordered Square
 - 1140\. Stone Game II
-- 1143\. Longest Common Subsequence
+- [1143\. Longest Common Subsequence](1143.%20Longest%20Common%20Subsequence.md)
 - 1155\. Number of Dice Rolls With Target Sum
 - 1186\. Maximum Subarray Sum with One Deletion
 - 1191\. K-Concatenation Maximum Sum
